@@ -142,7 +142,7 @@ AI-Video-Assistant/
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Yogendra-Gupta/AI-Video-Assistant-System.git
 cd AI-Video-Assistant
 ```
 
